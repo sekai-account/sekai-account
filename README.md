@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing...sorry!
-- 📫 Y2KSekai#3893
+- 📫 y2ksekai on discord!
 
 <!---
 sekai-account/sekai-account is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
